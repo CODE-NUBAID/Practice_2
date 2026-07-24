@@ -1,6 +1,6 @@
 # Practice Repository
 
-Welcome to my **Practice Repository**! 🚀
+Welcome to my **Practice Repository**!
 
 This repository is dedicated to learning, experimenting, and improving my GitHub and development skills.
 
